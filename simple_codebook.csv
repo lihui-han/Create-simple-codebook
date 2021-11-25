@@ -1,0 +1,10 @@
+"variable_id","item_text","n","min","max","mean"
+"MPG","Miles per Gallon",398,9,46.6,23.5145728643216
+"ENGINE","Engine Displacement (cu. inches)",406,4,455,194.040640394089
+"HORSE","Horsepower",400,46,230,104.8325
+"WEIGHT","Vehicle Weight (lbs.)",406,732,5140,2969.56157635468
+"ACCEL","Time to Accelerate from 0 to 60 mph (sec)",406,8,24.8,15.4950738916256
+"YEAR","Model Year (modulo 100)",405,70,82,75.9358024691358
+"ORIGIN","Country of Origin",405,1,3,1.57037037037037
+"CYLINDER","Number of Cylinders",405,3,8,5.46913580246914
+"FILTER_$","cylrec = 1 | cylrec = 2 (FILTER)",398,0,1,0.731155778894472
